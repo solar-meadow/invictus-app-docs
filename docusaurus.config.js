@@ -142,6 +142,16 @@ const config = {
                 theme: prismThemes.github,
                 darkTheme: prismThemes.dracula,
             },
+            algolia: {
+                appId: 'R2IYF7ETH7',
+                apiKey: '599cec31baffa4868cae4e79f180729b',
+                indexName: 'docsearch',
+                contextualSearch: true,
+                replaceSearchResultPathname: {
+                    from: '/',
+                    to: '/',
+                },
+            },
         }),
 };
 
