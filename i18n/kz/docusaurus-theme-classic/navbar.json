@@ -1,0 +1,14 @@
+{
+    "title": {
+        "message": "Invictus",
+        "description": "The title in the navbar"
+    },
+    "logo.alt": {
+        "message": "Invictus Logo",
+        "description": "The alt text of navbar logo"
+    },
+    "item.label.Demo": {
+        "message": "Пайдаланушы нұсқаулығы",
+        "description": "Navbar item with label Demo"
+    }
+}

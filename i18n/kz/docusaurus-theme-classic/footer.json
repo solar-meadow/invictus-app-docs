@@ -1,0 +1,46 @@
+{
+    "link.title.Demo": {
+        "message": "Нұсқаулық",
+        "description": "The title of the footer links column with title=Demo in the footer"
+    },
+    "link.title.Invictus": {
+        "message": "Invictus",
+        "description": "The title of the footer links column with title=Invictus in the footer"
+    },
+    "link.title.Правила и условия": {
+        "message": "Ережелер мен шарттар",
+        "description": "The title of the footer links column with title=Правила и условия in the footer"
+    },
+    "link.item.label.Tutorial": {
+        "message": "Пайдаланушы нұсқаулығы",
+        "description": "The label of footer link with label=Tutorial linking to /"
+    },
+    "link.item.label.Go": {
+        "message": "Go",
+        "description": "The label of footer link with label=Go linking to https://invictusgo.kz"
+    },
+    "link.item.label.Girls": {
+        "message": "Girls",
+        "description": "The label of footer link with label=Girls linking to https://invictusfitness.kz/girls2"
+    },
+    "link.item.label.Fitness": {
+        "message": "Fitness",
+        "description": "The label of footer link with label=Fitness linking to https://invictusfitness.kz/"
+    },
+    "link.item.label.Публичная оферта на русском": {
+        "message": "Орыс тілінде жария офертасы",
+        "description": "The label of footer link with label=Публичная оферта на русском linking to https://docs.google.com/document/d/1RkZaYD2VoYHkptfBpiNVhgQWlmCeFXpN/edit"
+    },
+    "link.item.label.Публичная оферта на казахском": {
+        "message": "Қазақ тілінде жария офертасы",
+        "description": "The label of footer link with label=Публичная оферта на казахском linking to https://docs.google.com/document/d/1mKLB3uF4_78oUt-cfoTKlQ0ooIWRJ2GO/edit"
+    },
+    "link.item.label.Политика конфедценциальности": {
+        "message": "Құпиялық саясаты",
+        "description": "The label of footer link with label=Политика конфедценциальности linking to https://docs.google.com/document/d/155RizJ0qXgIKbQoJf17BIy6T8m0hqIOa/edit"
+    },
+    "copyright": {
+        "message": "© 2024 Invictus",
+        "description": "The footer copyright"
+    }
+}
