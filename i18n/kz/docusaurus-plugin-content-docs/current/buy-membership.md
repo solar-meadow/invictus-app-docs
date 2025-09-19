@@ -23,13 +23,13 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
   <TabItem value="buy-btn" label="«Абонемент сатып алу» батырмасы">
     Басты бетте **«Абонемент сатып алу»** батырмасын басыңыз.
 
-    <img src={useBaseUrl("/img/buy-membership/01-home-buy.jpg")} alt="Басты бет — «Абонемент сатып алу» батырмасы" style={{maxWidth: "300px"}} />
+    <img className="guide-img" src={useBaseUrl("/img/buy-membership/01-home-buy.jpg")} alt="Басты бет — «Абонемент сатып алу» батырмасы" style={{maxWidth: "300px"}} />
 
   </TabItem>
   <TabItem value="clubs-section" label="«Клубтар» бөлімі">
     Егер батырма жоқ болса, төмен қарай сырғытып **Клубтар** бөлімінен залды таңдаңыз.
 
-    <img src={useBaseUrl("/img/buy-membership/02-home-clubs.jpg")} alt="Басты бет — «Клубтар» бөлімі" style={{maxWidth: "300px"}} />
+    <img className="guide-img" src={useBaseUrl("/img/buy-membership/02-home-clubs.jpg")} alt="Басты бет — «Клубтар» бөлімі" style={{maxWidth: "300px"}} />
 
   </TabItem>
 </Tabs>
@@ -42,13 +42,13 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
   <TabItem value="club-list" label="Клубтар тізімі">
     Өзіңізге қолайлы клубты таңдаңыз.
 
-    <img src={useBaseUrl("/img/buy-membership/03-clubs-list.jpg")} alt="Клубтар тізімі" style={{maxWidth: "300px"}} />
+    <img className="guide-img" src={useBaseUrl("/img/buy-membership/03-clubs-list.jpg")} alt="Клубтар тізімі" style={{maxWidth: "300px"}} />
 
   </TabItem>
   <TabItem value="club-details" label="Клуб беті">
     Клуб бетінде **«Абонементті таңдау»** батырмасын басыңыз.
 
-    <img src={useBaseUrl("/img/buy-membership/04-club-details.jpg")} alt="Клуб беті — «Абонементті таңдау»" style={{maxWidth: "300px"}} />
+    <img className="guide-img" src={useBaseUrl("/img/buy-membership/04-club-details.jpg")} alt="Клуб беті — «Абонементті таңдау»" style={{maxWidth: "300px"}} />
 
   </TabItem>
 </Tabs>
@@ -59,7 +59,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 Қажетті абонементті таңдап, растау батырмасын басыңыз.
 
-<img src={useBaseUrl("/img/buy-membership/05-plan-picker.jpg")} alt="Абонемент түрін таңдау экраны" style={{maxWidth: "300px"}} />
+<img className="guide-img" src={useBaseUrl("/img/buy-membership/05-plan-picker.jpg")} alt="Абонемент түрін таңдау экраны" style={{maxWidth: "300px"}} />
 
 ---
 
@@ -71,7 +71,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 - Kaspi бөліп төлеу
 - Банк картасы (Paybox)
 
-<img src={useBaseUrl("/img/buy-membership/06-payment-methods.jpg")} alt="Төлем әдісін таңдау" style={{maxWidth: "300px"}} />
+<img className="guide-img" src={useBaseUrl("/img/buy-membership/06-payment-methods.jpg")} alt="Төлем әдісін таңдау" style={{maxWidth: "300px"}} />
 
 ---
 
@@ -81,13 +81,13 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
   <TabItem value="bonus" label="Бонус">
     Егер бонус жиналған болса, оны қосыңыз.
 
-    <img src={useBaseUrl("/img/buy-membership/07-confirm-and-pay.jpg")} alt="Бонус қолдану" style={{maxWidth: "300px"}} />
+    <img className="guide-img" src={useBaseUrl("/img/buy-membership/07-confirm-and-pay.jpg")} alt="Бонус қолдану" style={{maxWidth: "300px"}} />
 
   </TabItem>
   <TabItem value="promo" label="Промокод">
     Промокодты енгізіп, **«Қолдану»** батырмасын басыңыз.
 
-    <img src={useBaseUrl("/img/buy-membership/08-promo-code.jpg")} alt="Промокод енгізу" style={{maxWidth: "300px"}} />
+    <img className="guide-img" src={useBaseUrl("/img/buy-membership/08-promo-code.jpg")} alt="Промокод енгізу" style={{maxWidth: "300px"}} />
 
   </TabItem>
 </Tabs>
@@ -102,7 +102,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 Шарттармен келісу үшін құсбелгіні қойып, **«Төлеу»** батырмасын басыңыз.
 
-<img src={useBaseUrl("/img/buy-membership/07-confirm-and-pay.jpg")} alt="Соңғы растау" style={{maxWidth: "300px"}} />
+<img className="guide-img" src={useBaseUrl("/img/buy-membership/07-confirm-and-pay.jpg")} alt="Соңғы растау" style={{maxWidth: "300px"}} />
 
 :::danger
 Төлем расталғанша қосымшаны жаппаңыз және экранды өшірмеңіз.

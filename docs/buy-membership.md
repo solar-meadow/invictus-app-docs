@@ -23,13 +23,13 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
   <TabItem value="buy-btn" label="Кнопка «Купить абонемент»">
     На главном экране сверху нажмите **«Купить абонемент»**.
 
-    <img src={useBaseUrl("/img/buy-membership/01-home-buy.jpg")} alt="Главная — кнопка «Купить абонемент»" style={{maxWidth: "300px"}} />
+    <img className="guide-img" src={useBaseUrl("/img/buy-membership/01-home-buy.jpg")} alt="Главная — кнопка «Купить абонемент»" style={{maxWidth: "300px"}} />
 
   </TabItem>
   <TabItem value="clubs-section" label="Раздел «Клубы»">
     Если кнопки нет, пролистайте вниз до блока **Клубы** и выберите зал вручную.
 
-    <img src={useBaseUrl("/img/buy-membership/02-home-clubs.jpg")} alt="Главная — блок «Клубы»" style={{maxWidth: "300px"}} />
+    <img className="guide-img" src={useBaseUrl("/img/buy-membership/02-home-clubs.jpg")} alt="Главная — блок «Клубы»" style={{maxWidth: "300px"}} />
 
   </TabItem>
 </Tabs>
@@ -42,13 +42,13 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
   <TabItem value="club-list" label="Список клубов">
     Нажмите на клуб, который вам подходит.
 
-    <img src={useBaseUrl("/img/buy-membership/03-clubs-list.jpg")} alt="Список клубов" style={{maxWidth: "300px"}} />
+    <img className="guide-img" src={useBaseUrl("/img/buy-membership/03-clubs-list.jpg")} alt="Список клубов" style={{maxWidth: "300px"}} />
 
   </TabItem>
   <TabItem value="club-details" label="Карточка клуба">
     На странице клуба нажмите кнопку **«Выбрать абонемент»**.
 
-    <img src={useBaseUrl("/img/buy-membership/04-club-details.jpg")} alt="Страница клуба — «Выбрать абонемент»" style={{maxWidth: "300px"}} />
+    <img className="guide-img" src={useBaseUrl("/img/buy-membership/04-club-details.jpg")} alt="Страница клуба — «Выбрать абонемент»" style={{maxWidth: "300px"}} />
 
   </TabItem>
 </Tabs>
@@ -59,7 +59,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 Выберите подходящий абонемент и нажмите кнопку подтверждения.
 
-<img src={useBaseUrl("/img/buy-membership/05-plan-picker.jpg")} alt="Экран выбора абонемента" style={{maxWidth: "300px"}} />
+<img className="guide-img" src={useBaseUrl("/img/buy-membership/05-plan-picker.jpg")} alt="Экран выбора абонемента" style={{maxWidth: "300px"}} />
 
 ---
 
@@ -71,7 +71,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 - Рассрочка от Kaspi
 - Банковская карта (Paybox)
 
-<img src={useBaseUrl("/img/buy-membership/06-payment-methods.jpg")} alt="Выбор способа оплаты" style={{maxWidth: "300px"}} />
+<img className="guide-img" src={useBaseUrl("/img/buy-membership/06-payment-methods.jpg")} alt="Выбор способа оплаты" style={{maxWidth: "300px"}} />
 
 ---
 
@@ -81,13 +81,13 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
   <TabItem value="bonus" label="Бонусы">
     Если у вас есть бонусы, активируйте переключатель.
 
-    <img src={useBaseUrl("/img/buy-membership/07-confirm-and-pay.jpg")} alt="Использование бонусов" style={{maxWidth: "300px"}} />
+    <img className="guide-img" src={useBaseUrl("/img/buy-membership/07-confirm-and-pay.jpg")} alt="Использование бонусов" style={{maxWidth: "300px"}} />
 
   </TabItem>
   <TabItem value="promo" label="Промокод">
     Введите промокод и нажмите **«Применить»**.
 
-    <img src={useBaseUrl("/img/buy-membership/08-promo-code.jpg")} alt="Использование промокода" style={{maxWidth: "300px"}} />
+    <img className="guide-img" src={useBaseUrl("/img/buy-membership/08-promo-code.jpg")} alt="Использование промокода" style={{maxWidth: "300px"}} />
 
   </TabItem>
 </Tabs>
@@ -102,7 +102,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 Отметьте галочку согласия с условиями и нажмите **«Оплатить»**.
 
-<img src={useBaseUrl("/img/buy-membership/07-confirm-and-pay.jpg")} alt="Финальное подтверждение" style={{maxWidth: "300px"}} />
+<img className="guide-img" src={useBaseUrl("/img/buy-membership/07-confirm-and-pay.jpg")} alt="Финальное подтверждение" style={{maxWidth: "300px"}} />
 
 :::danger
 Не закрывайте приложение, пока идёт подтверждение платежа.
