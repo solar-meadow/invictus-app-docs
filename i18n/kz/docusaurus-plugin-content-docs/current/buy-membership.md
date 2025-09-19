@@ -1,6 +1,6 @@
 ---
 title: Invictus қосымшасында абонементті қалай сатып алуға болады
-slug: /kk/buy-membership
+slug: /
 description: Қадамдық нұсқаулық суреттермен — басты беттен бастап төлемге дейін.
 sidebar_position: 2
 ---
