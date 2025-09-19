@@ -1,7 +1,7 @@
 ---
 title: Топтық жаттығуға жазылу
-slug: /group-training-kk
-description: Қадамдық нұсқаулық — клубты таңдаудан бастап жаттығуға жазылуға дейін.
+slug: /group-training
+description: Запись на тренировку
 sidebar_position: 3
 ---
 
@@ -17,43 +17,43 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 ## 1-қадам. **Жазбалар** бөліміне өтіңіз
 
-<img src={useBaseUrl("/img/group-training/01-home.jpg")} alt="Басты экран — Жазбалар бөлімі" className="guide-img" />
-
 Төменгі мәзірден **Жазбалар** қойындысын таңдаңыз.
+
+<img src={useBaseUrl("/img/group-training/01-home.jpg")} alt="Басты экран — Жазбалар бөлімі" className="guide-img" />
 
 ---
 
 ## 2-қадам. Жаттығу түрін таңдаңыз
 
-<img src={useBaseUrl("/img/group-training/02-records.jpg")} alt="Жаттығу түрін таңдау" className="guide-img" />
-
 **Жазбалар** бөлімінде **Топтық** жаттығуларды таңдаңыз.
+
+<img src={useBaseUrl("/img/group-training/02-records.jpg")} alt="Жаттығу түрін таңдау" className="guide-img" />
 
 ---
 
 ## 3-қадам. Клубты таңдаңыз
 
-<img src={useBaseUrl("/img/group-training/03-choose-club.jpg")} alt="Клубты таңдау" className="guide-img" />
-
 Жаттығу өтетін клубты таңдаңыз да, **Қолдану** түймесін басыңыз.
+
+<img src={useBaseUrl("/img/group-training/03-choose-club.jpg")} alt="Клубты таңдау" className="guide-img" />
 
 ---
 
 ## 4-қадам. Кестеден жаттығуды таңдаңыз
 
-<img src={useBaseUrl("/img/group-training/04-schedule.jpg")} alt="Кестеден жаттығуды таңдау" className="guide-img" />
-
 Кесте ашылады.  
 Өзіңізге ыңғайлы жаттығуды тауып, **Жазылу** түймесін басыңыз.
+
+<img src={useBaseUrl("/img/group-training/04-schedule.jpg")} alt="Кестеден жаттығуды таңдау" className="guide-img" />
 
 ---
 
 ## ✅ 5-қадам. Жазылымды растау
 
-<img src={useBaseUrl("/img/group-training/05-success.jpg")} alt="Жазылымды растау" className="guide-img" />
-
 Дайын! Сіз сәтті түрде жаттығуға жазылдыңыз.  
 Енді **Күнтізбеге қосу** немесе **Менің жазбаларым** бөліміне өтуге болады.
+
+<img src={useBaseUrl("/img/group-training/05-success.jpg")} alt="Жазылымды растау" className="guide-img" />
 
 :::warning
 Егер жаттығуға бармасаңыз немесе белгілеп өтпесеңіз, келесі жазылу мүмкіндігі тек 3 күннен кейін ашылады.
