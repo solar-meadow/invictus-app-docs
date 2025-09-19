@@ -1,6 +1,6 @@
 ---
 title: Invictus қосымшасында абонементті қалай сатып алуға болады
-slug: /kk/buy-membership
+slug: /kk/
 description: Қадамдық нұсқаулық суреттермен — басты беттен бастап төлемге дейін.
 sidebar_position: 2
 ---
@@ -75,6 +75,7 @@ import TabItem from '@theme/TabItem';
   </TabItem>
   <TabItem value="promo" label="Промокод">
     <img src="/img/buy-membership/08-promo-code.jpg" alt="Промокод енгізу" style={{maxWidth: "300px"}} />
+    
     Промокодты енгізіп, **«Қолдану»** батырмасын басыңыз.
   </TabItem>
 </Tabs>
